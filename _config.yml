@@ -18,7 +18,7 @@ name: Mathématiques
 description: 
   Petit blog pour faire parvenir plus simplement le travail pour mes classes 
   de quatrième et de quatrième en mathématiques
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "continuite-maths-college/" # the subpath of your site, e.g. /blog
 github_username:  homeostasie
 
 # jekyll-paginate configuration
