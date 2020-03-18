@@ -23,11 +23,12 @@ menu:
     link: /tags
   - name: "Pour me suivre"
     submenu:
-      - name: Colophon
-        link: /colophon
       - name: Pearltrees
         icon: pearltrees
         link: https://www.pearltrees.com/tlafond   
+      - name: Colophon
+        icon: colophon
+        link: /colophon
       - name: GitHub
         icon: github
         link: http://github.com/homeostasie
