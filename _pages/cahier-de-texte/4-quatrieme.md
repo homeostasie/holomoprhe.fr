@@ -8,14 +8,14 @@ comments: true
 
 Il vous est conseillé de lire les pages suivantes : 
 
-Poser une question : https://holomorphe.netlify.com/questions
-Rendre un travail : https://holomorphe.netlify.com/rendu
+Poser une question : [Poser une question](https://www.holomoprphe.fr/questions)
+Rendre un travail : [Rendre un travail(https://www.holomoprphe.fr/rendu)
 
 ### Cahier de texte
 
 Le programme de travail est le suivant : 
 
-* Semaine 1 : Calcul littéral : [LIEN](https://holomorphe.netlify.com/posts/S1-4eme-16mars-22mars/)
+* Semaine 1 : Calcul littéral : [LIEN](https://www.holomoprphe.fr/posts/S1-4eme-16mars-22mars/)
 
 ### Ressources
 

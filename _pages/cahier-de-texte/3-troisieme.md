@@ -9,15 +9,16 @@ comments: true
 
 Il vous est conseillé de lire les pages suivantes : 
 
-Poser une question : https://holomorphe.netlify.com/questions
-Rendre un travail : https://holomorphe.netlify.com/rendu
+Poser une question : [Poser une question](/questions/)
+Rendre un travail : [Rendre un travail(/rendu/)
 
 ### Cahier de texte
 
 Le programme de travail est le suivant : 
 
-* Semaine 1 : Fonctins affines et linéaires : [LIEN](https://holomorphe.netlify.com/posts/S1-3eme-16mars-22mars/)
+* Semaine 1 : Fonctins affines et linéaires : [LIEN](https://www.holomoprphe.fr/posts/S1-3eme-16mars-22mars/)
 
+### Ressources
 
 Vous pouvez retrouver les documents de cours : 
 
