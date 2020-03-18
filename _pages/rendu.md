@@ -28,7 +28,4 @@ Ce n'est pas le plus simple pour m'envoyer des documents. Mais si vous y arrivez
 
 Mon mail académique est le suivant : thomas.lafond@ac-lyon.fr 
 
-Vous pouvez m'écrire un mail. Légalement, c'est vos parents qui devrait avec un de leur adresse mail. Pensez à signer votre mail, pour que je sache à qui répondre. Vos adresses mail, ni celles de vos parents étant forcément explicite.
-
-
-Je rajouterai moi-même tous les documents envoyés. 
+Vous pouvez m'écrire un mail. Légalement, c'est vos parents qui devrait avec un de leur adresse mail. Pensez à signer votre mail, pour que je sache à qui répondre. Vos adresses mail, ni celles de vos parents étant forcément explicite. Je rajouterai moi-même tous les documents envoyés. 
