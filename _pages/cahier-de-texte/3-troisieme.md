@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cahier de texte : Troisième
+title: "Cahier de texte : Troisième"
 permalink: /cahier-de-texte/3-troisieme/
 description: "Cahier de texte pour mes classes de troisième : 3e1, 3e3 et 3e5"
 comments: true
