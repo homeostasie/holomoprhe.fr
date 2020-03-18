@@ -16,7 +16,7 @@ Rendre un travail : [Rendre un travail(/rendu/)
 
 Le programme de travail est le suivant : 
 
-* Semaine 1 : Fonctins affines et linéaires : [LIEN](https://www.holomoprphe.fr/posts/S1-3eme-16mars-22mars/)
+* Semaine 1 : Fonctins affines et linéaires : [LIEN](/posts/S1-3eme-16mars-22mars/)
 
 ### Ressources
 
