@@ -7,7 +7,7 @@ comments: true
 
 Vous voulez me rendre du travail. Vous pouvez me le faire passer via :
 
-### Pearltrees 
+### I - Pearltrees 
 
 Deux solutions sont possibles.
 
@@ -26,12 +26,12 @@ Je me suis abonnée à chacun de vos comptes. Vous pouvez donc ici accéder par 
 * Vous pouvez vous connecter par le site pearltrees : [LIEN](https://www.pearltrees.com) .
 
 
-### Pronote
+### II - Pronote
 
-Ce n'est pas le plus simple pour m'envoyer des documents. Mais si vous y arrivez. Faites le et je les récupère.
+Ce n'est pas le plus simple pour m'envoyer des documents. Si vous y arrivez, vous pouvez toujours passer par là.
 
 
-### Mail 
+### III - Mail 
 
 Mon mail académique est le suivant : thomas.lafond@ac-lyon.fr 
 
