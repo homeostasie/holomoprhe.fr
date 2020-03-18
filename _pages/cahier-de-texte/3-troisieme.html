@@ -1,0 +1,21 @@
+---
+layout: default
+title: Cahier de texte : Troisième
+permalink: /cahier-de-texte/3-troisieme/
+description: Cahier de texte pour mes classes de troisième : 3e1, 3e3 et 3e5
+comments: true
+---
+
+
+<ul>
+  {% for post in site.posts %}
+  {% if post.tags contains 3eme %}
+  <li>
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+  </li>
+  {% endif %}
+  {% endfor %}
+</ul>
+
