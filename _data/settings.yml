@@ -25,7 +25,7 @@ menu:
     submenu:
       - name: Colophon
         link: /colophon
-        - name: Pearltrees
+      - name: Pearltrees
         icon: pearltrees
         link: https://www.pearltrees.com/tlafond   
       - name: GitHub
