@@ -1,12 +1,11 @@
 ---
 layout: default
 title: "Ouverture du site"
-date: 2020-03-18 08:00:00
-published: 2020-03-18 08:00:00
+date: 2020-03-18 08:00:00 +0200
+published: 2020-03-18 08:00:00 +0200
 comments: true
 categories: site
 tags: [site]
-github: ""
 ---
 
 ---
