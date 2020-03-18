@@ -11,10 +11,13 @@ Il vous est conseillé de lire les pages suivantes :
 Poser une question : https://holomorphe.netlify.com/questions
 Rendre un travail : https://holomorphe.netlify.com/rendu
 
+### Cahier de texte
+
 Le programme de travail est le suivant : 
 
 * Semaine 1 : Calcul littéral : [LIEN](https://holomorphe.netlify.com/posts/S1-4eme-16mars-22mars/)
 
+### Ressources
 
 Vous pouvez retrouver les documents de cours : 
 
