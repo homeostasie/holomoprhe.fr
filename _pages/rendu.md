@@ -5,9 +5,7 @@ permalink: /rendu/
 comments: true
 ---
 
-Vous voules me rendre du travail. 
-
-Vous pouvez me le faire passer :
+Vous voulez me rendre du travail. Vous pouvez me le faire passer via :
 
 ### Pearltrees 
 
@@ -17,8 +15,8 @@ Je me suis abonnée à chacun de vos comptes. Vous pouvez donc ici accéder par 
 
 Une collection a été crée (ou va l'être rapidement) dans chacun de vos comptes. Vous créez une collection maths et vous y déposé votre travail dedans.
 
-* Vous pouvez télécharger l'application pour téléphone
-* Vous pouvez vous connecter par le site [pearltrees](https://www.pearltrees.com) 
+* Vous pouvez télécharger l'application pour téléphone.
+* Vous pouvez vous connecter par le site pearltrees : [LIEN](https://www.pearltrees.com) .
 
 
 ### Pronote

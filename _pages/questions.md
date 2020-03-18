@@ -11,7 +11,8 @@ Vous pouvez me contacter par :
 
 * **Pronote**
 * **Pearltrees** : [https://www.pearltrees.com/tlafond](https://www.pearltrees.com/tlafond)
-* **Commentaires sur cette site** 
+
+* **Commentaires** sur cette site
 * **mail** : thomas.lafond@ac-lyon.fr 
 
-Vous pouvez me contacter par mail. Légalement, ce sont vos parents qui devraient avec une de leurs adresses mail. Pensez à signer votre mail, pour que je sache à qui répondre. Vos adresses mail, ni celles de vos parents étant forcément explicites.
+ATTENTION : Vous pouvez me contacter par mail mais légalement, ce sont vos parents qui devraient avec une de leurs adresses mail. Pensez à signer votre mail, pour que je sache à qui répondre. Vos adresses mail, ni celles de vos parents étant forcément explicites.
