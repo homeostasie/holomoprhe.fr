@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "MOOC - Apprendre à distance"
-date: 2020-03-20 14:00:00 +0200
-published: 2020-03-20 14:00:00 +0200
+date: 2020-03-20 12:00:00 +0200
+published: 2020-03-20 12:00:00 +0200
 comments: true
 categories: site
 tags: [site, 4eme, 3eme]
