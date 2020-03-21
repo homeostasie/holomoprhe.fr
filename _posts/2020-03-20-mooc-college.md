@@ -27,6 +27,7 @@ Face à cette pandémie, le numérique est utilisé en permanence. Même si cela
 * **S'initier à l'enseignement en Sciences Numériques et Technologie** : [LIEN](https://www.fun-mooc.fr/courses/course-v1:inria+41018+session01/about)
 * **Protection de la vie privée dans le monde numérique** : [LIEN](https://www.fun-mooc.fr/courses/course-v1:inria+41015+session04/about)
 
+<!--more-->
 ### Français et littérature
 
 L'une des principales difficultés mise en lumière par cette pandémie est la difficulté de communiquer à l'écrit. Il est parfois complexe de se faire comprendre mais aussi de comprendre l'autre. Cela provient principalement par le fait que nous ne maitrisions pas totalement le français dans son écrit. **Des fautes d'orthographes** peuvent créer de l'ambiguïté là où il ne devrait pas y en avoir. Je ne suis pas un expert dans la matière et me relire me prend du temps et laisse en plus passer bon nombre de fautes et de formulations douteuses. C'est pourquoi, je suis déjà inscrit à ce MMOC que j'essaye de suivre à mon rythme pour m'améliorer sur le sujet.
