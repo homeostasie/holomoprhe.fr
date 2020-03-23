@@ -40,7 +40,7 @@ Il est également possible de s'améliorer sur le sujet en passant par la lectur
 
 ### Langues vivantes
 
-Les mooc sont d'assez bon outils pour découvrir une langue vivante. Ils ne permettent pas d'échanger facilement à l'oral de la même manière qu'avec un professeur. Néanmoins, les vidéos restent des médias parlés et il est donc possible d'écouter et de s'entrainer à la prononciation. Je n'ai pas trouvé de mooc en français sur l'apprentissage et l'approfondissement des langues vivantes enseignées au collège : Anglais, Espagnol, Allemand, Italien,... J'ai mis les deux que j'ai trouvé : **Arabe** et **Chinois**.
+Les mooc sont d'assez bon outils pour découvrir une langue vivante. Ils ne permettent pas d'échanger facilement à l'oral de la même manière qu'avec un professeur. Néanmoins, les vidéos restent des médias parlés et il est donc possible d'écouter et de s'entraîner à la prononciation. Je n'ai pas trouvé de mooc en français sur l'apprentissage et l'approfondissement des langues vivantes enseignées au collège : Anglais, Espagnol, Allemand, Italien,... J'ai mis les deux que j'ai trouvé : **Arabe** et **Chinois**.
 
 
 * **Kit de contact en langues orientales : arabe**  [LIEN](https://www.fun-mooc.fr/courses/course-v1:Inalco+52001+session04/about)
