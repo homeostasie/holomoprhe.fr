@@ -17,7 +17,7 @@ Rendre un travail : [Rendre un travail(/rendu/)
 Le programme de travail est le suivant : 
 
 * Semaine 1 : Fonctions affines et linéaires : [LIEN](/posts/s1-3eme-16mars-22mars/)
-* Semaine 2 : Fonctions affines et linéaires : [LIEN](/posts/s2-3eme-13mars-29mars/)
+* Semaine 2 : Fonctions affines et linéaires : [LIEN](/posts/s2-3eme-23mars-29mars/)
 
 ### Ressources
 
