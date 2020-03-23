@@ -9,7 +9,7 @@ comments: true
 Il vous est conseillé de lire les pages suivantes : 
 
 Poser une question : [Poser une question](/questions/)
-Rendre un travail : [Rendre un travail(/rendu/)
+Rendre un travail : [Rendre un travail](/rendu/)
 
 ### Cahier de texte
 
