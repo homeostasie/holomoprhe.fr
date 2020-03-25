@@ -15,7 +15,7 @@ Rendre un travail : [Rendre un travail](/rendu/)
 
 Le programme de travail est le suivant : 
 
-* Semaine 1 : Calcul littéral : [LIEN](/posts/S1-4eme-16mars-22mars/)
+* Semaine 1 : Calcul littéral : [LIEN](/posts/S1-4eme-16mars-22mars/) - [CORRECTION](/posts/s1-4eme-correction/).
 * Semaine 2 : Calcul littéral : [LIEN](/posts/S2-4eme-23mars-29mars/)
 
 ### Ressources
