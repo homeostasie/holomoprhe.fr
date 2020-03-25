@@ -23,9 +23,9 @@ tags: [3eme, correction]
 
 *screencast à suivre sur loom...*
 
-#### 1. Rappel symétrie axiale
+#### Rappel Translation
 
-* [https://www.geogebra.org/classic/?id=DCqyYqvD](https://www.geogebra.org/classic/?id=DCqyYqvD)
+* [https://www.geogebra.org/classic/EdZVhFZU](https://www.geogebra.org/classic/EdZVhFZU)
 
 #### 2. Rappel programme de construction 
 
