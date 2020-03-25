@@ -10,7 +10,7 @@ tags: [4eme, correction]
 
 ### I - Travail sur le chapitre - Fonctions affines et linéaires
 
-#### 3. Exercices - [LIEN VERS CORRECTION](/assets/doc/3eme/S1/3c1-continuite-cor.pdf)
+#### 3. Exercices - [LIEN VERS CORRECTION](/assets/doc/4eme/S1/4c1-continuite-cor.pdf)
 
 * p102 ex 15 (5 minutes)
 * p102 ex 17 (15 minutes)
