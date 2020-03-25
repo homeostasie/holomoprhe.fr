@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Semaine 1 : 3ème : Correction"
-date: 2020-03-18 08:00:00 +0200
-published: 2020-03-18 08:00:00 +0200
+date: 2020-03-25 16:00:00 +0200
+published: 2020-03-25 16:00:00 +0200
 comments: true
 categories: agenda
 tags: [3eme, correction]
