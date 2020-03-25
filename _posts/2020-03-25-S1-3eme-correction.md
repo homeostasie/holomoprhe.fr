@@ -10,14 +10,14 @@ tags: [3eme, correction]
 
 ### I - Travail sur le chapitre - Fonctions affines et linéaires
 
-#### 3. Exercices
+#### 3. Exercices - [LIEN VERS CORRECTION](/assets/doc/3eme/S1/3c1-continuite-cor.pdf)
 
 * p122 ex 1 (5 minutes)
 * p122 ex 3 (10 minutes)
 * p122 ex 4 (10 minutes)
 * p133 ex 79 (30 minutes)
 
-[LIEN](/assets/doc/3eme/S1/3c1-continuite-cor.pdf)
+
 
 ### II - Travail graphique
 
