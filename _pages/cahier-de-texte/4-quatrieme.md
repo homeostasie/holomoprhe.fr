@@ -17,7 +17,7 @@ Le programme de travail est le suivant :
 
 * Semaine 1 : Calcul littéral : [LIEN](/posts/S1-4eme-16mars-22mars/) - [CORRECTION](/posts/s1-4eme-correction/).
 * Semaine 2 : Calcul littéral : [LIEN](/posts/S2-4eme-23mars-29mars/)
-* Semaine 3 : Problèmes et Espace : [LIEN](/posts/s3-3eme-30mars-05avril/)
+* Semaine 3 : Problèmes et Espace : [LIEN](/posts/s3-4eme-30mars-05avril/)
 
 ### Ressources
 
