@@ -18,6 +18,7 @@ Le programme de travail est le suivant :
 
 * Semaine 1 : Fonctions affines et linéaires : [LIEN](/posts/s1-3eme-16mars-22mars/) - [CORRECTION](/posts/s1-3eme-correction/).
 * Semaine 2 : Fonctions affines et linéaires : [LIEN](/posts/s2-3eme-23mars-29mars/)
+* Semaine 3 : Arithmétique : [LIEN](/posts/s3-3eme-30mars-05avril/)
 
 ### Ressources
 
