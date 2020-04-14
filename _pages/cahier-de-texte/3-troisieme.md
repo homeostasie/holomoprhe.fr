@@ -20,6 +20,7 @@ Le programme de travail est le suivant :
 * Semaine 2 : Fonctions affines et linéaires : [LIEN](/posts/s2-3eme-23mars-29mars/)
 * Semaine 3 : Arithmétique : [LIEN](/posts/s3-3eme-30mars-05avril/)
 * Semaine 4 : Repos et finition : [LIEN](/posts/S4-3eme-6avril-12avril/)
+* Semaine 5 : Arithmétique : [LIEN](/posts/S5-3eme-13avril-19avril/)
 
 ### Ressources
 
