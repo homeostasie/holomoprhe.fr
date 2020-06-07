@@ -26,24 +26,6 @@
 	{{ content }}
 
 
-	{% if page.id %}
-    <p><strong>Billets liés :</strong></p>
-        <ul>
-	    {% for allpost in site.posts %}
-			  {% for tag in page.tags %}
-			  {% if allpost.tags contains tag and allpost.id != page.id %}
-			  <li>
-			      <a href="{{ allpost.url }}">
-			        {{ allpost.title }}
-			      </a>
-			  </li>
-			  {% break %}
-			  {% endif %}
-			  {% endfor %}
-		{% endfor %}
-		</ul>
-	{% endif %}
-
 	{% include disqus.html %}
 	</div>
 	{% include footer.html %}
