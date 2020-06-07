@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 8 mai 2020 - 4è -Départ en troisième"
+title: 8 mai 2020 - 4è -Départ en troisième
 date: 2020-06-08 01:00:00 +0200
 published: 2020-06-08 01:00:00 +0200
 comments: true
