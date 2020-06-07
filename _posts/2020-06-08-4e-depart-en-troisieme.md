@@ -23,7 +23,7 @@ Un autre point important pour progresser en mathématiques est d'avoir confiance
 ## Exercices d'automatismes
 
 
-[FICHE d'EXERCICES](assets/doc/4eme/2020-08-06/exercices_8mai.pdf)
+[FICHE d'EXERCICES](/assets/doc/4eme/2020-08-06/exercices_8mai.pdf)
 
 J'ai sélectionné des questions courtes de calculs à trou et de fractions. La correction est disponible après les exercices.
 
