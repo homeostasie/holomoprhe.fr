@@ -22,6 +22,7 @@ Le programme de travail est le suivant :
 * Semaine 5 : Espace : [LIEN](/posts/S5-4eme-13avril-19avril/)
 ---------
 * 8 juin : Automatismes : [LIEN](https://www.holomorphe.fr/posts/4e-depart-en-troisieme/)
+* 12 juin : Automatismes : [LIEN](https://www.holomorphe.fr/posts/4e-12-juin-2020/)
 
 ### Ressources
 

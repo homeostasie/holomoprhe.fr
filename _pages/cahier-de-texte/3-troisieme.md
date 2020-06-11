@@ -24,6 +24,7 @@ Le programme de travail est le suivant :
 * Semaine 6 : Ressources : [LIEN](https://www.holomorphe.fr/posts/s6-3eme-18mai-24mai/)
 ---------
 * 8 juin : Arithmétique : [LIEN](https://www.holomorphe.fr/posts/3e-depart-en-seconde/)
+* 12 juin : Automatismes et Probabilité: [LIEN](https://www.holomorphe.fr/posts/3e-12-juin-2020/)
 
 ### Ressources
 
