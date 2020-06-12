@@ -13,19 +13,25 @@ menu:
         link: /cahier-de-texte/4-quatrieme
       - name: "Troisième : 3e1 - 3e3 - 3e5"
         link: /cahier-de-texte/3-troisieme
-  - name: "Rendre du travail"
-    link: /rendu
-  - name: "Poser une question"
-    link: /questions  
+  - name: "Cours et exercices"
+    submenu:
+      - name: "Quatrième : 4e1 - 4e2"
+        link: /documents/4-quatrieme
+      - name: "Troisième : 3e1 - 3e3 - 3e5"
+        link: /documents/3-troisieme
   - name: Ressources
     link: /ressources     
-  - name: Tags
-    link: /tags
-  - name: "Pour me suivre"
+  - name: "Une question ?"
     submenu:
       - name: Pearltrees
         icon: pearltrees
         link: https://www.pearltrees.com/tlafond   
+      - name: "Rendre du travail"
+        icon: rendre
+        link: /rendu
+      - name: "Poser une question"
+        icon: question
+        link: /questions  
       - name: Colophon
         icon: colophon
         link: /colophon
