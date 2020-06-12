@@ -15,6 +15,6 @@ comments: true
 
 *Apprendre les règles en mathématiques*
 
-## Mathématiques appliqués
+## Mathématiques appliquées
 
 *Appliquer des mathématiques dans des domaines divers*
