@@ -19,21 +19,18 @@ menu:
         link: /documents/4-quatrieme
       - name: "Troisième : 3e1 - 3e3 - 3e5"
         link: /documents/3-troisieme
-  - name: Ressources
-    link: /ressources     
+      - name: Ressources
+        link: /ressources   
   - name: "Une question ?"
     submenu:
       - name: Pearltrees
         icon: pearltrees
         link: https://www.pearltrees.com/tlafond   
       - name: "Rendre du travail"
-        icon: rendre
         link: /rendu
       - name: "Poser une question"
-        icon: question
         link: /questions  
       - name: Colophon
-        icon: colophon
         link: /colophon
       - name: GitHub
         icon: github
