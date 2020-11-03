@@ -28,13 +28,13 @@ Pour les activités graphiques, le site de l'IREM Paris Nord est vraiment excell
 * Papiers Crayons : [http://www-irem.univ-paris13.fr/site_spip/spip.php?article1263](http://www-irem.univ-paris13.fr/site_spip/spip.php?article1263)
 *Dessin en 2d*
 
-* LA troisième dimension : [http://www-irem.univ-paris13.fr/site_spip/spip.php?article348](http://www-irem.univ-paris13.fr/site_spip/spip.php?article348)
+* La troisième dimension : [http://www-irem.univ-paris13.fr/site_spip/spip.php?article348](http://www-irem.univ-paris13.fr/site_spip/spip.php?article348)
 *Dessin en 3d*
 
 * Le compas dans l'œil : [http://www-irem.univ-paris13.fr/site_spip/spip.php?rubrique79](http://www-irem.univ-paris13.fr/site_spip/spip.php?rubrique79)
 *Comprendre la géométrie sans instrument*
 
-* Transformer à l'œil : [http://www-irem.univ-paris13.fr/site_spip/spip.php?rubrique105](http://www-irem.univ-paris13.fr/site_spip/spip.php?rubrique105]
+* Transformer à l'œil : [http://www-irem.univ-paris13.fr/site_spip/spip.php?rubrique105](http://www-irem.univ-paris13.fr/site_spip/spip.php?rubrique105)
 *S'entraîner sur les principales transformations géométriques* 
 
 * Programme de construction : [http://www-irem.univ-paris13.fr/site_spip/spip.php?rubrique75](http://www-irem.univ-paris13.fr/site_spip/spip.php?rubrique75])
