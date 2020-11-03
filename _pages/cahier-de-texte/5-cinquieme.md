@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Cahier de texte : Quatrième"
-permalink: /cahier-de-texte/4-quatrieme
+title: "Cahier de texte : Cinquième"
+permalink: /cahier-de-texte/5-cinquieme
 description: "Cahier de texte pour mes classes de quatrième : 4e1 et 4e2"
 comments: true
 ---
