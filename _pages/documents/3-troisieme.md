@@ -54,9 +54,9 @@ Chapitre 5 : Thalès
 
 # Les DM
 
-* Ex1 : 
-* Ex2 : 
-* Ex3 : 
-* Ex4 : 
-* Ex5 : 
+* DM1 : 
+* DM2 : 
+* DM3 : 
+* DM4 : 
+* DM5 : 
 

@@ -9,15 +9,15 @@ google-ID: ''
 menu: 
   - name: Cahier de texte
     submenu:
-      - name: "Quatrième : 4e1 - 4e2"
-        link: /cahier-de-texte/4-quatrieme
-      - name: "Troisième : 3e1 - 3e3 - 3e5"
+      - name: "Cinquieme : 5e1 - 5e2 - 5e5"
+        link: /cahier-de-texte/5-cinquieme
+      - name: "Troisième : 3e1 - 3e2 - 3e3"
         link: /cahier-de-texte/3-troisieme
   - name: "Cours et exercices"
     submenu:
-      - name: "Quatrième : 4e1 - 4e2"
-        link: /documents/4-quatrieme
-      - name: "Troisième : 3e1 - 3e3 - 3e5"
+      - name: "Cinquieme : 5e1 - 5e2 - 5e5"
+        link: /documents/5-cinquieme
+      - name: "Troisième : 3e1 - 3e2 - 3e3"
         link: /documents/3-troisieme
       - name: Ressources
         link: /ressources   
